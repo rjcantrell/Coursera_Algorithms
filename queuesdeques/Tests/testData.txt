@@ -1,0 +1,9 @@
+3>A B C D E F G H I
+3>A B C D E F G H I
+8>AA BB BB BB BB BB CC CC
+5>A B C D E F G H I
+9>A B C D E F G H I
+0>A B C D E F G H I
+10>it was the best of times it was the worst of times
+10>It was the best of times, it was the worst of times, it was ...
+7>AA BB BB BB BB BB CC CC
